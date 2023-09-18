@@ -1,5 +1,3 @@
-# Receba-numeros
-Código em linguagem C. Um algoritmos que receba um número que decida quantos números vai ler, e receba a quantidade de números recebidos e exiba os números informados.
 # Média 10 números 🔴
 Este projeto pede um número para saber quantos números vai ler, recebe a quantidade de números solicitados e exibe os números informados. No código foi utilizado a linguagem C. 
 
